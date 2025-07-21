@@ -87,3 +87,9 @@ El proyecto fue realizado con fines de aprendizaje y portafolio, y está pensado
 <p align="center"><b>Editar producto:</b> Interfaz para actualizar la información de un producto existente, como nombre, categoría, precio o stock.</p>
 
 ---
+
+## 👤 Autor
+
+- [Breyner Stiven Guarin Arias](https://github.com/BreynerSti)
+
+---
